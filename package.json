@@ -1,0 +1,16 @@
+{
+  "name": "google-drive-sync",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "google-drive-ocamlfuse"
+  },
+  "license": "ISC",
+  "author": "kolik29",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
